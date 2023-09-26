@@ -2,9 +2,9 @@
 
 const Statistics = () => {
     return (
-        <div>
+        <div className="flex justify-center items-center h-screen">
             Statistics
-            
+
         </div>
     );
 };
