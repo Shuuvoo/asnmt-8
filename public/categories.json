@@ -7,7 +7,8 @@
         "card_bg": "#FF5733",
         "text_button_bg": "#FF5733",
         "description": "“Health is Wealth” means that nothing in life has more value than health. There can be no success without health and thereby no money. If one is not healthy, he/she can’t enjoy the wealth. Good health has more value than money. Money can’t buy you happiness but if you are healthy, you will be happy. To stay healthy we should eat only healthy food and walk every day..",
-        "price": 299.99
+        "price":  299.99 ,
+        "idd":1
     },
     
     
@@ -19,7 +20,8 @@
         "card_bg": "#17A2B8",
         "text_button_bg": "#17A2B8",
         "description": "Education is an important tool which is very useful in everybody’s life. Education is what differentiates us from other living beings on earth. It makes man the smartest creature on earth. It empowers humans and gets them ready to face challenges of life efficiently. With that being said, education still remains a luxury and not a necessity in our country.",
-        "price": 49.99
+        "price": 49.99,
+        "idd":1
     },
     {   
         "id":3,
@@ -30,7 +32,8 @@
         "card_bg": "#28A745",
         "text_button_bg": "#28A745",
         "description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environment. Clothing can insulate against cold or hot conditions, and it can provide a hygienic barrier, keeping infectious and toxic materials away from the body. ",
-        "price": 149.95
+        "price": 149.95,
+        "idd":1
     },
     {
         "id":4,
@@ -41,7 +44,8 @@
         "card_bg": "#17A2B8",
         "text_button_bg": "#17A2B8",
         "description": "Food is the fuel that keeps us running throughout the day, and it also supports the body’s metabolic process and ensures we remain healthy. Children need to understand the importance of food to build healthy eating habits in the long term. They also need to learn that the body needs energy from healthy food to conduct day-to-day activities.",
-        "price": 19.99
+        "price": 19.99,
+        "idd":1
     },
     {   
         "id":8,
@@ -52,7 +56,8 @@
         "card_bg": "#17A2B8",
         "text_button_bg": "#17A2B8",
         "description": "Food is the fuel that keeps us running throughout the day, and it also supports the body’s metabolic process and ensures we remain healthy. Children need to understand the importance of food to build healthy eating habits in the long term. They also need to learn that the body needs energy from healthy food to conduct day-to-day activities.",
-        "price": 149.99
+        "price": 149.99,
+        "idd":1
     },
     {   
         "id":5,
@@ -63,7 +68,8 @@
         "card_bg": "#FF5733",
         "text_button_bg": "#FF5733",
         "description": "“Health is Wealth” means that nothing in life has more value than health. There can be no success without health and thereby no money. If one is not healthy, he/she can’t enjoy the wealth. Good health has more value than money. Money can’t buy you happiness but if you are healthy, you will be happy. To stay healthy we should eat only healthy food and walk every day.",
-        "price": 34.99
+        "price": 34.99,
+        "idd":1
     },
    
     {   
@@ -75,7 +81,8 @@
         "card_bg": "#28A745",
         "text_button_bg": "#28A745",
         "description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environment. Clothing can insulate against cold or hot conditions, and it can provide a hygienic barrier, keeping infectious and toxic materials away from the body. ",
-        "price": 29.99
+        "price": 29.99,
+        "idd":1
     },
     {
         "id":6,
@@ -86,7 +93,8 @@
         "card_bg": "#17A2B8",
         "text_button_bg": "#17A2B8",
         "description": "Education is an important tool which is very useful in everybody’s life. Education is what differentiates us from other living beings on earth. It makes man the smartest creature on earth. It empowers humans and gets them ready to face challenges of life efficiently. With that being said, education still remains a luxury and not a necessity in our country",
-        "price": 79.99
+        "price": 79.99,
+        "idd":1
     },
     
     {   
@@ -98,7 +106,8 @@
         "card_bg": "#FF5733",
         "text_button_bg": "#FF5733",
         "description": "“Health is Wealth” means that nothing in life has more value than health. There can be no success without health and thereby no money. If one is not healthy, he/she can’t enjoy the wealth. Good health has more value than money. Money can’t buy you happiness but if you are healthy, you will be happy. To stay healthy we should eat only healthy food and walk every day.",
-        "price": 9.99
+        "price": 9.99,
+        "idd":1
     },
     {   
         "id":12,
@@ -109,7 +118,8 @@
         "card_bg": "#17A2B8",
         "text_button_bg": "#17A2B8",
         "description": "Education is an important tool which is very useful in everybody’s life. Education is what differentiates us from other living beings on earth. It makes man the smartest creature on earth. It empowers humans and gets them ready to face challenges of life efficiently. With that being said, education still remains a luxury and not a necessity in our country",
-        "price": 199.99
+        "price": 199.99,
+        "idd":1
     },
     {
         "id":11,
@@ -120,7 +130,8 @@
         "card_bg": "#28A745",
         "text_button_bg": "#28A745",
         "description": "Clothing serves many purposes: it can serve as protection from the elements, rough surfaces, sharp stones, rash-causing plants, and insect bites, by providing a barrier between the skin and the environment. Clothing can insulate against cold or hot conditions, and it can provide a hygienic barrier, keeping infectious and toxic materials away from the body. ",
-        "price": 59.99
+        "price": 59.99,
+        "idd":1
     },
     {
         "id":10,
@@ -131,6 +142,7 @@
         "card_bg": "#17A2B8",
         "text_button_bg": "#17A2B8",
         "description": "Food is the fuel that keeps us running throughout the day, and it also supports the body metabolic process and ensures we remain healthy. Children need to understand the importance of food to build healthy eating habits in the long term. They also need to learn that the body needs energy from healthy food to conduct day-to-day activities.",
-        "price": 399.99
+        "price": 399.99,
+        "idd":1
     }
 ]
