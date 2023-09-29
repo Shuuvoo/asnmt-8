@@ -1,0 +1,14 @@
+.donate_img{
+    display: absolute;
+}
+.donate_btn{
+    display: relative;
+    padding-left: 38%;
+    margin-top: -14%;
+
+}
+/* .m-btn{
+    height: 10%;
+    width: 100%;
+    background-color: bisque;
+} */
