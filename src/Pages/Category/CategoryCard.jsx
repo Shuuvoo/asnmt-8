@@ -18,16 +18,16 @@ const CategoryCard = ({ category }) => {
       Swal.fire("Good job!", "Donation Added Successfully done!", "success");
     } else {
       const isExists = donationItems.find((category) => category.id == id);
-      console.log(isExists);
+     
       if (!isExists) {
         addedDonationsArray.push(...donationItems, category);
         localStorage.setItem("donations", JSON.stringify(addedDonationsArray));
-        // Swal.fire("Error!", "Not Available for Double!", "Errror");
+        Swal.fire("Good Job!",  "Donation Added Successfully done!", "success");
       } else {
-        console.log("agei ace");
+       
         // addedDonationsArray.push( ...donationItems, category);
         // localStorage.setItem('donations', JSON.stringify(addedDonationsArray));
-        // Swal.fire("Error!", "Not Available for Double!", "Errror");
+        Swal.fire("Error!", "Not Available for Double!", "Errror");
       }
     }
   };

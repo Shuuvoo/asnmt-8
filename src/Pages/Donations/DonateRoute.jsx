@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const DonateRoute = ({category}) => {
     const { id, picture, title, description, category_name, price, category_bg, card_bg, text_button_bg } = category || {};

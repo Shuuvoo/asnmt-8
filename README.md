@@ -1,8 +1,5 @@
-# React + Vite
+My Donation Campaign Project Features:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- In NavBar three Route Are Create when you tap one this route enters and enters route are colored and underlined 
+- When you click div any point dynamically load this category and you see a new page with static navbar.
+- When you click Donate button the clicked category is added to Dynamiaclly Route and there you show the card with  other details view and see all functions jadu.
